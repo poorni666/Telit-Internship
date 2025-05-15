@@ -6,8 +6,7 @@
 
 ## 🛠 Prerequisites
 
-All the files are organized in the **master** branch, refer to the navigation directory to know how to navigate the respo:
-
+All the files are organized in the **master** branch:
 - Python 3.7  
 - TensorFlow 2.11  
 - ALIF E7 Processor
