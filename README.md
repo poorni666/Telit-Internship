@@ -10,7 +10,7 @@ All the files are organized in the **master** branch, refer to the navigation di
 
 - Python 3.7  
 - TensorFlow 2.11  
-- ALIF E7 Processor for Edge AI Deployment
+- ALIF E7 Processor
 
 ---
 
